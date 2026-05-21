@@ -1,16 +1,32 @@
-## Hi there 👋
+## Anthony McPhee
 
-<!--
-**anthony-mcphee/anthony-mcphee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Field Service Engineer with a background in military aviation maintenance, deployed operations, and aircraft systems troubleshooting, currently transitioning into UAS autonomy and mission systems engineering.
 
-Here are some ideas to get you started:
+Building hands-on experience in:
+- ArduPilot SITL
+- MAVLink telemetry and command flow
+- Autonomous mission scripting
+- Linux systems and networking
+- Python-based flight control workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current work focuses on developing and validating autonomous flight behaviors within a self-directed UAS integration lab using ArduPilot, MAVProxy, QGroundControl, and Python.
+
+### Technical Focus
+- Autonomous flight systems
+- MAVLink telemetry and routing
+- Mission scripting and waypoint automation
+- Linux (Ubuntu / WSL)
+- Systems integration and troubleshooting
+- Telemetry validation and logging
+
+### Active Project
+🚁 [UAS Systems Lab](https://github.com/anthony-mcphee/UAS-systems-lab)
+
+Current development areas include:
+- waypoint mission workflows
+- velocity command validation
+- telemetry monitoring
+- MAVProxy routing architecture
+- search-pattern mission logic
+- autonomous return-to-launch behavior
+- startup and troubleshooting documentation
